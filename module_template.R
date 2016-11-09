@@ -1,0 +1,16 @@
+cat("#= [ Module ]: Module-Number_Module-Name.R\n")
+
+cat("#= [ Libraries ] =============\n")
+
+cat("#= [ Declarations ] ==========\n")
+cat("#- [ Constants ] -------------\n")
+cat("#- [ Variables ] -------------\n")
+cat("#- [ Modules ] ---------------\n")
+cat("#- [ Functions ] -------------\n")
+
+cat("#= [ BEGIIN ] ================\n")
+cat("# [ Input ] ------------------\n")
+cat("# [ Processing ] -------------\n")
+cat("# [ Output ] -----------------\n")
+
+cat("#= [ END ] ===================\n")
